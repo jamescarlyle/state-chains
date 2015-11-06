@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "created": 0,
+    "terminated": 0,
+    "updated": 0,
+    "previousHash": "",
+    "rulesHash": "l/qXC5dZlkfUflSh7YaImflYRpg=",
+    "state": {
+      "auctions":[]
+    }
+  },
+  "signature": ""
+}
